@@ -1,0 +1,2 @@
+Roxy.pth 放在 assets\weights
+Roxy.index 放在 assets\indices
